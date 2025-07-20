@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Servidor Nginx</title>
+</head>
+<body>
+  <h1>Hola desde Ansible</h1>
+  <p style="font-size: 0.8em; color: #555;">Adriel Padilla 2022-2161</p>
+</body>
+</html>
